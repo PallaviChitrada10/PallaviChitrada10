@@ -4,7 +4,7 @@ My technology journey didn’t start with complex code; it began with the simple
 
 I architect and optimize data systems that turn complex information into clear insights. If there’s a way to make a database faster or a pipeline more efficient, I'm already on it.
 
-Even though I operate in 'two boats', Administration and Analytics, I specialize in providing the bridge between them. I ensure that the way we store data directly supports the way we represent it for critical business needs.
+Even though I operate on 'two boats', Administration and Analytics, I specialize in providing the bridge between them. I ensure that the way we store data directly supports the way we represent it for critical business needs.
 
 Currently, <br>
 🔭 Diving deep into Infrastructure as Code with Pulumi<br>
