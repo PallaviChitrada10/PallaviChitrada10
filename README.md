@@ -4,11 +4,7 @@ My technology journey didn’t start with complex code; it began with the simple
 
 I architect and optimize data systems that turn complex information into clear insights. If there’s a way to make a database faster or a pipeline more efficient, I'm already on it.
 
-I believe great data work resembles the cooking process
-- _Administering_ the kitchen (Cloud Database Infrastructure)
-- _Architecting_ the recipe (Data Engineering & Pipelines)
-- _Transforming_ the ingredients (ETL & Query Tuning)
-- _Visualizing_ the plating (Data Analytics & Dashboards)
+A great data work resembles a culinary masterpiece: from _administering_ the cloud kitchen and _architecting_ the data recipe to _transforming_ raw ingredients through ETL and _visualizing_ the final plating for business insights.
 
 Even though I operate in 'two boats', Administration and Analytics, I specialize in providing the bridge between them. I ensure that the way we store data directly supports the way we represent it for critical business needs.
 
