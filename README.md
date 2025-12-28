@@ -1,17 +1,28 @@
-### Hi ✨
-### You are at Pallavi's base camp!
+### Hi, you are at Pallavi's base camp ✨
 
-<!--
-**PallaviChitrada10/PallaviChitrada10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My technology journey didn’t start with complex code; it began with the simple, elegant logic of truth tables. That fundamental curiosity about how information connects evolved into a passion for the two core pillars of data: high-performance storage and impactful insights.
 
-Here are some ideas to get you started:
+I architect and optimize data systems that turn complex information into clear insights. If there’s a way to make a database faster or a pipeline more efficient, I'm already on it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe great data work resembles the cooking process
+- _Administering_ the kitchen (Cloud Database Infrastructure)
+- _Architecting_ the recipe (Data Engineering & Pipelines)
+- _Transforming_ the ingredients (ETL & Query Tuning)
+- _Visualizing_ the plating (Data Analytics & Dashboards)
+
+Even though I operate in 'two boats', Administration and Analytics, I specialize in providing the bridge between them. I ensure that the way we store data directly supports the way we represent it for critical business needs.
+
+Currently, 
+🔭 Diving deep into Infrastructure as Code with Pulumi
+🌱 Implementing advanced audits for security and performance
+👯 Contributing to multi-region integration for [saayam-for-all/database](https://github.com/saayam-for-all/database)
+⚡ Ensuring every chart and KPI directly answers a critical business need with clarity and precision
+
+About me:
+🎓 Recent UWM Computer Science Grad with a 3.5 GPA
+⚙️ Primary tech stack consists of SQL, PostgreSQL, Python, Power BI, and AWS. 
+🛠️ 400+ contributions this year across public and private repositories
+
+When I'm not tuning PostgreSQL databases on AWS RDS or building interactive Power BI dashboards, you can find me contributing as a Query Administrator in a non-profit.
+
+Reach me at my social: [LinkedIn](https://www.linkedin.com/in/pallavi-chitrada-a47388215/)
