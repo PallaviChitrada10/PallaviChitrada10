@@ -12,16 +12,16 @@ I believe great data work resembles the cooking process
 
 Even though I operate in 'two boats', Administration and Analytics, I specialize in providing the bridge between them. I ensure that the way we store data directly supports the way we represent it for critical business needs.
 
-Currently, 
-🔭 Diving deep into Infrastructure as Code with Pulumi
-🌱 Implementing advanced audits for security and performance
-👯 Contributing to multi-region integration for [saayam-for-all/database](https://github.com/saayam-for-all/database)
-⚡ Ensuring every chart and KPI directly answers a critical business need with clarity and precision
+Currently, <br>
+🔭 Diving deep into Infrastructure as Code with Pulumi<br>
+🌱 Implementing advanced audits for security and performance<br>
+👯 Contributing to multi-region integration for [saayam-for-all/database](https://github.com/saayam-for-all/database)<br>
+⚡ Ensuring every chart and KPI directly answers a critical business need with clarity and precision<br>
 
-About me:
-🎓 Recent UWM Computer Science Grad with a 3.5 GPA
-⚙️ Primary tech stack consists of SQL, PostgreSQL, Python, Power BI, and AWS. 
-🛠️ 400+ contributions this year across public and private repositories
+About me:<br>
+🎓 Recent UWM Computer Science Grad with a 3.5 GPA<br>
+⚙️ Primary tech stack consists of SQL, PostgreSQL, Python, Power BI, and AWS <br>
+🛠️ 400+ contributions this year across public and private repositories<br>
 
 When I'm not tuning PostgreSQL databases on AWS RDS or building interactive Power BI dashboards, you can find me contributing as a Query Administrator in a non-profit.
 
