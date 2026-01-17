@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="2vAwgYmdSwIvp2_-Vsnf">
-    <mxGraphModel dx="2974" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -760,6 +760,24 @@
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-271" parent="8BPidydMdnzkQlSfcaov-267" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Madhukar Govindaraju,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Raj Rallapalli,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sriram Mahankali&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="67.78" width="152" x="12" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-275" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="188" x="795" y="1100.63" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-276" parent="8BPidydMdnzkQlSfcaov-275" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
+          <mxGeometry height="100" width="176" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-277" parent="8BPidydMdnzkQlSfcaov-275" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DevSecOps&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.86425339366516" width="175" x="1" y="0.49773755656108604" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-278" edge="1" parent="8BPidydMdnzkQlSfcaov-275" source="8BPidydMdnzkQlSfcaov-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8BPidydMdnzkQlSfcaov-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-279" parent="8BPidydMdnzkQlSfcaov-275" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Divya Tanwar,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Harshali Gaikwad&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="152" x="12" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-280" edge="1" parent="1" source="8BPidydMdnzkQlSfcaov-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" target="8BPidydMdnzkQlSfcaov-277">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
