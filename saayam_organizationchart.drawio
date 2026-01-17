@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="2vAwgYmdSwIvp2_-Vsnf">
-    <mxGraphModel dx="1995" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1700" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
           <mxGeometry height="30" width="60" x="23" y="78" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Garamond;" value="" vertex="1">
-          <mxGeometry height="500" width="1950" x="20" y="180" as="geometry" />
+          <mxGeometry height="210" width="1950" x="20" y="180" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Garamond&quot;&gt;CONFIDANTS&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="48" y="180" as="geometry" />
@@ -271,46 +271,37 @@
         <mxCell id="8BPidydMdnzkQlSfcaov-22" parent="8BPidydMdnzkQlSfcaov-21" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
           <mxGeometry height="110.5" width="176" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-23" parent="8BPidydMdnzkQlSfcaov-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8BPidydMdnzkQlSfcaov-23" parent="8BPidydMdnzkQlSfcaov-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Security&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-6" parent="8BPidydMdnzkQlSfcaov-21" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Krishna Madahushi&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="18" y="60" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-24" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="110.5" width="176" x="455" y="230" as="geometry" />
+          <mxGeometry height="110.5" width="385" x="455" y="230" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-25" parent="8BPidydMdnzkQlSfcaov-24" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
-          <mxGeometry height="110.5" width="176" as="geometry" />
+          <mxGeometry height="110.5" width="385" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-26" parent="8BPidydMdnzkQlSfcaov-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
+        <mxCell id="8BPidydMdnzkQlSfcaov-26" parent="8BPidydMdnzkQlSfcaov-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Project Management&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="382.8125" x="2.1875" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-7" parent="8BPidydMdnzkQlSfcaov-24" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Manoj Mullapudi&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="18.5" y="60" as="geometry" />
+          <mxGeometry height="30" width="139.53" x="40.47" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-10" parent="8BPidydMdnzkQlSfcaov-24" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sharanya Gowda&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="215" y="60" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-27" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="110.5" width="176" x="666" y="230" as="geometry" />
+          <mxGeometry height="110.5" width="176" x="870" y="230" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-28" parent="8BPidydMdnzkQlSfcaov-27" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
           <mxGeometry height="110.5" width="176" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-29" parent="8BPidydMdnzkQlSfcaov-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8BPidydMdnzkQlSfcaov-29" parent="8BPidydMdnzkQlSfcaov-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Database&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-8" parent="8BPidydMdnzkQlSfcaov-27" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pallavi Chitrada&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="18" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-30" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="110.5" width="176" x="870" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-31" parent="8BPidydMdnzkQlSfcaov-30" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
-          <mxGeometry height="110.5" width="176" as="geometry" />
-        </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-32" parent="8BPidydMdnzkQlSfcaov-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
-        </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-10" parent="8BPidydMdnzkQlSfcaov-30" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sharanya Gowda&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="18" y="60" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-33" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -319,7 +310,7 @@
         <mxCell id="8BPidydMdnzkQlSfcaov-34" parent="8BPidydMdnzkQlSfcaov-33" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
           <mxGeometry height="110.5" width="176" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-35" parent="8BPidydMdnzkQlSfcaov-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8BPidydMdnzkQlSfcaov-35" parent="8BPidydMdnzkQlSfcaov-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Business Analyst&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-9" parent="8BPidydMdnzkQlSfcaov-33" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Rishitha Rapuri&lt;/font&gt;" vertex="1">
@@ -331,7 +322,7 @@
         <mxCell id="8BPidydMdnzkQlSfcaov-37" parent="8BPidydMdnzkQlSfcaov-36" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
           <mxGeometry height="110.5" width="176" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-38" parent="8BPidydMdnzkQlSfcaov-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8BPidydMdnzkQlSfcaov-38" parent="8BPidydMdnzkQlSfcaov-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Generative AI / ML&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-11" parent="8BPidydMdnzkQlSfcaov-36" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sugandha Agrawal&lt;/font&gt;" vertex="1">
@@ -343,7 +334,7 @@
         <mxCell id="8BPidydMdnzkQlSfcaov-40" parent="8BPidydMdnzkQlSfcaov-39" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
           <mxGeometry height="110.5" width="176" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-41" parent="8BPidydMdnzkQlSfcaov-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8BPidydMdnzkQlSfcaov-41" parent="8BPidydMdnzkQlSfcaov-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Human Resources&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="175" x="1" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-12" parent="8BPidydMdnzkQlSfcaov-39" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Teja Vadapalli&lt;/font&gt;" vertex="1">
@@ -355,11 +346,17 @@
         <mxCell id="8BPidydMdnzkQlSfcaov-43" parent="8BPidydMdnzkQlSfcaov-42" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
           <mxGeometry height="110.5" width="240" as="geometry" />
         </mxCell>
-        <mxCell id="8BPidydMdnzkQlSfcaov-44" parent="8BPidydMdnzkQlSfcaov-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span lang=&quot;EN-IN&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Front-end,&lt;br&gt;Web app &amp;amp; Mobile App&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8BPidydMdnzkQlSfcaov-44" parent="8BPidydMdnzkQlSfcaov-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Product Management&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="239" x="1" y="10.5" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-13" parent="8BPidydMdnzkQlSfcaov-42" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Likhith Kumar Vuchooru&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Garamond;" value="" vertex="1">
+          <mxGeometry height="210" width="1950" x="23" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Garamond&quot;&gt;EXECUTIVES&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="51" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
