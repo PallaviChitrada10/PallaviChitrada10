@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="2vAwgYmdSwIvp2_-Vsnf">
-    <mxGraphModel dx="1893" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2974" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,16 @@
               <mxPoint x="995" y="210" />
               <mxPoint x="1820" y="210" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-273" edge="1" parent="1" source="4VtVc28ceUSWv-DchQXL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="8BPidydMdnzkQlSfcaov-268">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="210" />
+              <mxPoint x="1950" y="210" />
+              <mxPoint x="1950" y="1155" />
+            </Array>
+            <mxPoint x="1940" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4VtVc28ceUSWv-DchQXL-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=left;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;text-indent: 0.5in;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Rao K Bhethanabotla&lt;/font&gt;&lt;/p&gt;" vertex="1">
@@ -735,6 +745,21 @@
               <mxPoint x="588" y="910" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-267" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="176" x="1757" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-268" parent="8BPidydMdnzkQlSfcaov-267" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=light-dark(#ffffff, #1f2f1e);fontFamily=Garamond;" value="" vertex="1">
+          <mxGeometry height="110.00000000000001" width="176" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-269" parent="8BPidydMdnzkQlSfcaov-267" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Architecture&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.86425339366516" width="175" x="1" y="0.49773755656108604" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-270" edge="1" parent="8BPidydMdnzkQlSfcaov-267" source="8BPidydMdnzkQlSfcaov-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8BPidydMdnzkQlSfcaov-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BPidydMdnzkQlSfcaov-271" parent="8BPidydMdnzkQlSfcaov-267" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Madhukar Govindaraju,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Raj Rallapalli,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sriram Mahankali&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="67.78" width="152" x="12" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
