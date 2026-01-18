@@ -671,7 +671,7 @@
           <mxGeometry height="18.733031674208142" width="119.31818181818181" x="0.6818181818181819" y="6.3122171945701355" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-248" parent="8BPidydMdnzkQlSfcaov-244" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;fontSize=11;" value="Abhinav Kapa" vertex="1">
-          <mxGeometry height="32.93" width="103.64" x="8.18" y="30" as="geometry" />
+          <mxGeometry height="30" width="103.64" x="8.18" y="30" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-250" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990099;shadow=1;fillColor=#6a00ff;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
