@@ -146,10 +146,10 @@
           <mxGeometry height="90.5" width="119.99999999999999" x="-11" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-41" parent="8BPidydMdnzkQlSfcaov-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="&lt;font face=&quot;Garamond&quot; style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span&gt;Human Resources&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24.570135746606333" width="119.31818181818181" x="0.6818181818181818" y="8.599547511312217" as="geometry" />
+          <mxGeometry height="24.570135746606333" width="119.31818181818181" x="-10.318181818181818" y="8.599547511312217" as="geometry" />
         </mxCell>
         <mxCell id="8BPidydMdnzkQlSfcaov-12" parent="8BPidydMdnzkQlSfcaov-39" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;fontSize=11;" value="&lt;font&gt;Teja Vadapalli&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24.570135746606333" width="95.45454545454545" x="12.272727272727272" y="49.140271493212666" as="geometry" />
+          <mxGeometry height="24.570135746606333" width="95.45454545454545" x="0.2727272727272716" y="49.140271493212666" as="geometry" />
         </mxCell>
         <mxCell id="TVRq0VqU3KYDXHcXW74F-30" edge="1" parent="8BPidydMdnzkQlSfcaov-39" source="8BPidydMdnzkQlSfcaov-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="8BPidydMdnzkQlSfcaov-40">
           <mxGeometry relative="1" as="geometry" />
